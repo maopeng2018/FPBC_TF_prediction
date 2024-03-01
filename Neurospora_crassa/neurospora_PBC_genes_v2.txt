@@ -1,0 +1,247 @@
+ids	functions	annotation
+NCU08042	transcription_factor|clr-2	 (clr-2)
+NCU07705	transcription_factor|clr-1	 (clr-1)
+NCU06971	transcription_factor|xlr-1	 (xlr-1)
+NCU05414	transcription_factor|ara-1	 (ara-1)
+NCU04295	transcription_factor|pdr-2	 (pdr-2)
+NCU09033	transcription_factor|pdr-1	 (pdr-1)
+NCU03725	transcription_factor|vib-1	 (vib-1)
+NCU01312	transcription_factor|rca-1	 (rca-1)
+NCU08807	transcription_factor|cre-1	 (CRE-1)
+NCU07788	transcription_factor|col-26	 (COL-26)
+NCU05051	transcription_factor|clr-4	 (clr-4)
+NCU05383	transcription_factor|clr-5	 (clr-5)
+NCU08412	PBD_CAZy|Mannan	beta-1,4-endomannanase gh5-7
+NCU00985	PBD_CAZy|Mannan	extracellular beta-mannosidase gh2-4
+NCU00890	PBD_CAZy|Mannan	intracellular beta-mannosidase gh2-1
+NCU08131	PBD_CAZy|Starch	alpha-amylase GH13
+NCU09805	PBD_CAZy|Starch	alpha-amylase GH13
+NCU05873	PBD_CAZy|Starch	alpha-amylase GH13
+NCU05429	PBD_CAZy|Starch	alpha-amylase GH13
+NCU06523	PBD_CAZy|Starch	intracellular alpha-glucosidase gh13-4
+NCU07860	PBD_CAZy|Starch	intracellular alpha-glucosidase gh13-5
+NCU03098	PBD_CAZy|Starch	intracellular alpha-glucosidase fh15-1
+NCU00743	PBD_CAZy|Starch	amylo-alpha-1,6-glucosidase gh13-7
+NCU01517	PBD_CAZy|Starch	extracellular alpha-glucosidase gla-1 GH15
+NCU02583	PBD_CAZy|Starch	extracellular alpha-glucosidase GH31
+NCU09281	PBD_CAZy|Starch	extracellular alpha-glucosidase gh31-1
+NCU04203	PBD_CAZy|Starch	extracellular alpha-glucosidase gh31-2
+NCU04674	PBD_CAZy|Starch	extracellular alpha-glucosidase gh31-3
+NCU04221	PBD_CAZy|unknown	neutral trehalase GH37
+NCU08746	PBD_CAZy|Starch	starch active LPMO AA13
+NCU00943	PBD_CAZy|unknown	trehalase GH37
+NCU09170	PBD_CAZy|Xylan/Pectin/Xyloglucan	alpha-arabinofuranosidase gh43-4
+NCU05965	PBD_CAZy|Xylan/Pectin/Xyloglucan	alpha-arabinofuranosidase gh43-7
+NCU02343	PBD_CAZy|Xylan/Pectin/Xyloglucan	alpha-arabinofuranosidase gh51-1
+NCU09775	PBD_CAZy|Xylan/Pectin/Xyloglucan	alpha-arabinofuranosidase gh54-1
+NCU00642	PBD_CAZy|Pectin/Xyloglucan	extracellular beta-galactosidase gh35-1
+NCU04623	PBD_CAZy|Pectin/Xyloglucan	extracellular beta-galactosidase gh35-2
+NCU06861	PBD_CAZy|Xylan/Pectin/Xyloglucan	glycosyl hydrolase family 43 protein GH43
+NCU01900	PBD_CAZy|Xylan	intracellular beta-xylosidase gh43-2
+NCU00972	PBD_CAZy|Pectin	endo-beta-1,4-galactanase gh53-1
+NCU05882	PBD_CAZy|Pectin	endo-beta-1,6-galactanase gh5-5
+NCU09702	PBD_CAZy|Pectin	endo-beta-1,6-galactanase gh5-6
+NCU00852	PBD_CAZy|Xylan/Pectin/Xyloglucan	endoarabinanase gh43-1
+NCU02369	PBD_CAZy|Pectin	endogalacturonase gh28-1
+NCU06961	PBD_CAZy|Pectin	exogalacturonase GH28-1
+NCU09924	PBD_CAZy|Pectin	exoarabinanase GH93
+NCU00937	PBD_CAZy|Pectin	extracellular beta-glucuronidase gh79-1
+NCU09774	PBD_CAZy|Xylan	feruloyl esterase C CE1
+NCU09491	PBD_CAZy|Pectin/Xylan	feruloyl esterase B fae-1 CE1
+NCU08785	PBD_CAZy|Pectin/Xylan	feruloyl esterase D faeD CE1
+NCU06326	PBD_CAZy|Pectin	pectate lyase ply-1 GH76
+NCU08176	PBD_CAZy|Pectin	pectate lyase ply-2 PL3
+NCU10045	PBD_CAZy|Pectin	pectin methyl esterase ce8-1
+NCU09976	PBD_CAZy|Pectin	rhamnogalacturonan acetyl esterase ce12-1
+NCU05598	PBD_CAZy|Pectin	rhamnogalacturonan lyase asd-1 PL4
+NCU02654	PBD_CAZy|Pectin	unsaturated rhamnogalacturonyl hydrolase gh105-1
+NCU07351	PBD_CAZy|Xylan	alpha-glucuronidase GH67
+NCU06143	PBD_CAZy|Xylan	alpha-glucuronidase GH67
+NCU04885	PBD_CAZy|Xyloglucan	alpha-xylosidase GH31
+NCU05924	PBD_CAZy|Xylan	beta-1,4-endoxylanase gh10-1
+NCU08189	PBD_CAZy|Xylan	beta-1,4-endoxylanase gh10-2
+NCU04997	PBD_CAZy|Xylan	beta-1,4-endoxylanase gh10-3
+NCU07130	PBD_CAZy|Xylan	beta-1,4-endoxylanase gh10-4
+NCU02855	PBD_CAZy|Xylan	beta-1,4-endoxylanase gh11-1
+NCU07225	PBD_CAZy|Xylan	beta-1,4-endoxylanase gh11-2
+NCU09923	PBD_CAZy|Xylan	extracellular beta-xylosidase gh3-7
+NCU00709	PBD_CAZy|Xylan	extracellular beta-xylosidase gh3-8
+NCU04870	PBD_CAZy|Xylan	acetyl xylan esterase CE1
+NCU04494	PBD_CAZy|Xylan	acetyl xylan esterase CE1
+NCU00710	PBD_CAZy|Xylan	acetyl xylan esterase CE1
+NCU05159	PBD_CAZy|Xylan	acetyl xylan esterase CE1
+NCU09663	PBD_CAZy|Xylan	acetyl xylan esterase CE1
+NCU09664	PBD_CAZy|Xylan	acetyl xylan esterase CE1
+NCU03181	PBD_CAZy|Xylan	acetyl xylan esterase CE1
+NCU00762	PBD_CAZy|Cellulose	beta-1,4-endoglucanase gh5-1
+NCU05057	PBD_CAZy|Cellulose	beta-1,4-endoglucanase gh7-1
+NCU04854	PBD_CAZy|Cellulose	beta-1,4-endoglucanase gh7-2
+NCU04027	PBD_CAZy|Cellulose	beta-1,4-endoglucanase gh7-3
+NCU05121	PBD_CAZy|Cellulose	beta-1,4-endoglucanase gh45-1
+NCU05955	PBD_CAZy|Cellulose	beta-1,4-endoglucanase gh74-1
+NCU00206	PBD_CAZy|Cellulose	cellobiose dehydrogenase CDH
+NCU05923	PBD_CAZy|Cellulose	cellobiose dehydrogenase CDH
+NCU03996	PBD_CAZy|Cellulose	exo-beta-1,4-glucanase or cellobiohydrolase gh6-1
+NCU09680	PBD_CAZy|Cellulose	exo-beta-1,4-glucanase or cellobiohydrolase gH6-2
+NCU07190	PBD_CAZy|Cellulose	exo-beta-1,4-glucanase or cellobiohydrolase gh6-3
+NCU07340	PBD_CAZy|Cellulose	cellobiohydrolase cbh-1 GH7
+NCU05104	PBD_CAZy|Cellulose	exo-beta-1,4-glucanase or cellobiohydrolase gh7-4
+NCU08760	PBD_CAZy|Cellulose	polysaccharide monooxygenase 1 (PMO1) AA9
+NCU03328	PBD_CAZy|Cellulose	polysaccharide monooxygenase 1 (PMO1) AA9
+NCU00836	PBD_CAZy|Cellulose	polysaccharide monooxygenase 1 (PMO1) AA9
+NCU01867	PBD_CAZy|Cellulose	polysaccharide monooxygenase 1 (PMO1) AA9
+NCU02344	PBD_CAZy|Cellulose	polysaccharide monooxygenase 1 (PMO1) AA9
+NCU09764	PBD_CAZy|Cellulose	polysaccharide monooxygenase 1 (PMO1) AA9
+NCU02240	PBD_CAZy|Cellulose	polysaccharide monooxygenase 2 (PMO2) AA9
+NCU02916	PBD_CAZy|Cellulose	polysaccharide monooxygenase 2 (PMO2) AA9
+NCU01050	PBD_CAZy|Cellulose	polysaccharide monooxygenase 2 (PMO2) AA9
+NCU07760	PBD_CAZy|Cellulose	polysaccharide monooxygenase 3 (PMO3) AA9
+NCU03000	PBD_CAZy|Cellulose	polysaccharide monooxygenase 3 (PMO3) AA9
+NCU05969	PBD_CAZy|Cellulose	polysaccharide monooxygenase 3 (PMO3) AA9
+NCU07520	PBD_CAZy|Cellulose	polysaccharide monooxygenase 3 (PMO3) AA9
+NCU07898	PBD_CAZy|Cellulose	polysaccharide monooxygenase 3 (PMO3) AA9
+NCU07974	PBD_CAZy|Cellulose	polysaccharide monooxygenase 3 (PMO3) AA9
+NCU03641	PBD_CAZy|Cellulose	extracellular beta-glucosidase GH3
+NCU08755	PBD_CAZy|Cellulose	extracellular beta-glucosidase GH3
+NCU04952	PBD_CAZy|Cellulose	extracellular beta-glucosidase GH3
+NCU00130	PBD_CAZy|Cellulose	intracellular beta-glucosidase GH1
+NCU08054	PBD_CAZy|Cellulose	intracellular beta-glucosidase GH3
+NCU05577	PBD_CAZy|Cellulose	intracellular beta-glucosidase GH3
+NCU07487	PBD_CAZy|Cellulose	intracellular beta-glucosidase GH3
+NCU04537	sugar_transporter|	_
+NCU06138	sugar_transporter|	_
+NCU06026	sugar_transporter|	_
+NCU02188	sugar_transporter|	_
+NCU08152	sugar_transporter|	_
+NCU08180	sugar_transporter|	_
+NCU05853	sugar_transporter|	_
+NCU00988	sugar_transporter|	_
+NCU00821	sugar_transporter|	_
+NCU00809	sugar_transporter|	_
+NCU00801	sugar_transporter|	_
+NCU05350	sugar_transporter|	_
+NCU06846	sugar_transporter|	_
+NCU01813	sugar_transporter|	_
+NCU01633	sugar_transporter|	_
+NCU01494	sugar_transporter|	_
+NCU09358	sugar_transporter|	_
+NCU07861	sugar_transporter|	_
+NCU04963	sugar_transporter|	_
+NCU06522	sugar_transporter|	_
+NCU06384	sugar_transporter|	_
+NCU01868	sugar_transporter|	_
+NCU06358	sugar_transporter|	_
+NCU08858	sugar_transporter|	_
+NCU01132	sugar_transporter|	_
+NCU02582	sugar_transporter|	_
+NCU08114	sugar_transporter|	_
+NCU07199	sugar_transporter|	_
+NCU07169	sugar_transporter|	_
+NCU07054	sugar_transporter|	_
+NCU05627	sugar_transporter|	_
+NCU05597	sugar_transporter|	_
+NCU05585	sugar_transporter|	_
+NCU09287	sugar_transporter|	_
+NCU10021	sugar_transporter|	_
+NCU02438	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU10008	sugar_catabolism|TCA & glyoxylate cycle	fumR
+NCU01328	sugar_catabolism|PPP	/
+NCU04797	sugar_catabolism|glycolysis	/
+NCU01701	sugar_catabolism|PPP	rbtA
+NCU01702	sugar_catabolism|PPP	rbtA
+NCU07608	sugar_catabolism|PPP	/
+NCU02136	sugar_catabolism|PPP	talA
+NCU02482	sugar_catabolism|TCA & glyoxylate cycle	mcsA
+NCU10042	sugar_catabolism|glycolysis	enoA
+NCU01870	sugar_catabolism|glycolysis	enoA
+NCU08549	sugar_catabolism|D-galactose	/
+NCU06042	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU08943	sugar_catabolism|PCP	lxrA
+NCU00891	sugar_catabolism|PCP	xdhA
+NCU02542	sugar_catabolism|D-mannose/glycolysis	hxkA
+NCU03857	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU06836	sugar_catabolism|TCA & glyoxylate cycle	acuA
+NCU07422	sugar_catabolism|PPP	/
+NCU08336	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU02366	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU04280	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU10007	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU00187	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU05133	sugar_catabolism|D-galactose	/
+NCU03605	sugar_catabolism|L-rhamnose	lraB
+NCU04339	sugar_catabolism|PPP	rbkA
+NCU06142	sugar_catabolism|PPP	talB
+NCU03031	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU11353	sugar_catabolism|PCP	xkiA
+NCU07550	sugar_catabolism|glycolysis	tpiA
+NCU10058	sugar_catabolism|D-galactose	pgmB
+NCU10110	sugar_catabolism|PPP	/
+NCU00087	sugar_catabolism|PPP	pglA
+NCU03803	sugar_catabolism|PCP	LxrB
+NCU10107	sugar_catabolism|PPP	rpiB
+NCU04510	sugar_catabolism|PCP	XyrB
+NCU04442	sugar_catabolism|D-galactose	galE
+NCU05425	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU07914	sugar_catabolism|glycolysis	pgkA
+NCU11417	sugar_catabolism|D-galactose	/
+NCU01417	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU06003	sugar_catabolism|D-mannose	/
+NCU02829	sugar_catabolism|D-mannose	pmmA
+NCU06211	sugar_catabolism|TCA & glyoxylate cycle	mdhA
+NCU07281	sugar_catabolism|glycolysis	/
+NCU07807	sugar_catabolism|glycolysis	fbaA
+NCU08882	sugar_catabolism|D-galactose	/
+NCU07697	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU03779	sugar_catabolism|D-galactose/glycerol	/
+NCU08384	sugar_catabolism|PCP/D-galactose	xyrA
+NCU00575	sugar_catabolism|D-mannose/glycolysis	glkA
+NCU08471	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU09532	sugar_catabolism|D-galacturonic acid	gaaC
+NCU07064	sugar_catabolism|D-galacturonic acid	gaaB
+NCU01227	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU06005	sugar_catabolism|glycerol	/
+NCU03100	sugar_catabolism|PPP	/
+NCU02580	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU08516	sugar_catabolism|D-galactose	/
+NCU02505	sugar_catabolism|TCA & glyoxylate cycle	pyc
+NCU04401	sugar_catabolism|glycolysis	/
+NCU02322	sugar_catabolism|D-mannose	/
+NCU06482	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU04460	sugar_catabolism|D-galactose	galT
+NCU02407	sugar_catabolism|TCA & glyoxylate cycle	lpd1
+NCU11201	sugar_catabolism|glycolysis	/
+NCU03004	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU07165	sugar_catabolism|D-mannose	pmiA
+NCU09035	sugar_catabolism|L-rhamnose	lraA
+NCU07659	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU00959	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU10106	sugar_catabolism|glycolysis	/
+NCU04649	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU03068	sugar_catabolism|glycerol	/
+NCU01759	sugar_catabolism|PCP/D-galactose	/
+NCU00775	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU09533	sugar_catabolism|D-galacturonic acid	gaaA
+NCU00519	sugar_catabolism|PPP	rpeA
+NCU01692	sugar_catabolism|TCA & glyoxylate cycle	citA
+NCU05937	sugar_catabolism|D-mannose	/
+NCU07756	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU08687	sugar_catabolism|D-galactose	galK
+NCU00050	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU00643	sugar_catabolism|PCP	ladA
+NCU05454	sugar_catabolism|glycerol	/
+NCU04899	sugar_catabolism|TCA & glyoxylate cycle	mdh1
+NCU09034	sugar_catabolism|L-rhamnose	lraC
+NCU01906	sugar_catabolism|D-galacturonic acid	/
+NCU09705	sugar_catabolism|D-galactose	/
+NCU01528	sugar_catabolism|glycolysis	gpdA
+NCU02252	sugar_catabolism|glycolysis	pgmA
+NCU06075	sugar_catabolism|glycolysis	pkiA
+NCU03963	sugar_catabolism|PPP	/
+NCU00837	sugar_catabolism|PPP	/
+NCU00742	sugar_catabolism|glycerol	/
+NCU09111	sugar_catabolism|PPP	gsdA
+NCU05586	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU04923	sugar_catabolism|glycerol	ara1
+NCU04230	sugar_catabolism|TCA & glyoxylate cycle	/
+NCU01905	sugar_catabolism|PCP	/
+NCU00629	sugar_catabolism|glycolysis	pfkA

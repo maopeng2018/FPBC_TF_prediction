@@ -1,0 +1,247 @@
+GeneID	group	Enzyme_family,pathway	Gene_description	Substrate
+NCU08042	transcription_factor	/	clr-2	/
+NCU07705	transcription_factor	/	clr-1	/
+NCU06971	transcription_factor	/	xlr-1	/
+NCU05414	transcription_factor	/	ara-1	/
+NCU04295	transcription_factor	/	pdr-2	/
+NCU09033	transcription_factor	/	pdr-1	/
+NCU03725	transcription_factor	/	vib-1	/
+NCU01312	transcription_factor	/	rca-1	/
+NCU08807	transcription_factor	/	cre-1	/
+NCU07788	transcription_factor	/	col-26	/
+NCU05051	transcription_factor	/	clr-4	/
+NCU05383	transcription_factor	/	clr-5	/
+NCU08412	PBD_cazy	/	/	Mannan
+NCU00985	PBD_cazy	/	/	Mannan
+NCU00890	PBD_cazy	/	/	Mannan
+NCU08131	PBD_cazy	/	/	Starch
+NCU09805	PBD_cazy	/	/	Starch
+NCU05873	PBD_cazy	/	/	Starch
+NCU05429	PBD_cazy	/	/	Starch
+NCU06523	PBD_cazy	/	/	Starch
+NCU07860	PBD_cazy	/	/	Starch
+NCU03098	PBD_cazy	/	/	Starch
+NCU00743	PBD_cazy	/	/	Starch
+NCU01517	PBD_cazy	/	/	Starch
+NCU02583	PBD_cazy	/	/	Starch
+NCU09281	PBD_cazy	/	/	Starch
+NCU04203	PBD_cazy	/	/	Starch
+NCU04674	PBD_cazy	/	/	Starch
+NCU04221	PBD_cazy	/	/	unknown
+NCU08746	PBD_cazy	/	/	Starch
+NCU00943	PBD_cazy	/	/	unknown
+NCU09170	PBD_cazy	/	/	Xylan/Pectin/Xyloglucan
+NCU05965	PBD_cazy	/	/	Xylan/Pectin/Xyloglucan
+NCU02343	PBD_cazy	/	/	Xylan/Pectin/Xyloglucan
+NCU09775	PBD_cazy	/	/	Xylan/Pectin/Xyloglucan
+NCU00642	PBD_cazy	/	/	Pectin/Xyloglucan
+NCU04623	PBD_cazy	/	/	Pectin/Xyloglucan
+NCU06861	PBD_cazy	/	/	Xylan/Pectin/Xyloglucan
+NCU01900	PBD_cazy	/	/	Xylan
+NCU00972	PBD_cazy	/	/	Pectin
+NCU05882	PBD_cazy	/	/	Pectin
+NCU09702	PBD_cazy	/	/	Pectin
+NCU00852	PBD_cazy	/	/	Xylan/Pectin/Xyloglucan
+NCU02369	PBD_cazy	/	/	Pectin
+NCU06961	PBD_cazy	/	/	Pectin
+NCU09924	PBD_cazy	/	/	Pectin
+NCU00937	PBD_cazy	/	/	Pectin
+NCU09774	PBD_cazy	/	/	Xylan
+NCU09491	PBD_cazy	/	/	Pectin/Xylan
+NCU08785	PBD_cazy	/	/	Pectin/Xylan
+NCU06326	PBD_cazy	/	/	Pectin
+NCU08176	PBD_cazy	/	/	Pectin
+NCU10045	PBD_cazy	/	/	Pectin
+NCU09976	PBD_cazy	/	/	Pectin
+NCU05598	PBD_cazy	/	/	Pectin
+NCU02654	PBD_cazy	/	/	Pectin
+NCU07351	PBD_cazy	/	/	Xylan
+NCU06143	PBD_cazy	/	/	Xylan
+NCU04885	PBD_cazy	/	/	Xyloglucan
+NCU05924	PBD_cazy	/	/	Xylan
+NCU08189	PBD_cazy	/	/	Xylan
+NCU04997	PBD_cazy	/	/	Xylan
+NCU07130	PBD_cazy	/	/	Xylan
+NCU02855	PBD_cazy	/	/	Xylan
+NCU07225	PBD_cazy	/	/	Xylan
+NCU09923	PBD_cazy	/	/	Xylan
+NCU00709	PBD_cazy	/	/	Xylan
+NCU04870	PBD_cazy	/	/	Xylan
+NCU04494	PBD_cazy	/	/	Xylan
+NCU00710	PBD_cazy	/	/	Xylan
+NCU05159	PBD_cazy	/	/	Xylan
+NCU09663	PBD_cazy	/	/	Xylan
+NCU09664	PBD_cazy	/	/	Xylan
+NCU03181	PBD_cazy	/	/	Xylan
+NCU00762	PBD_cazy	/	/	Cellulose
+NCU05057	PBD_cazy	/	/	Cellulose
+NCU04854	PBD_cazy	/	/	Cellulose
+NCU04027	PBD_cazy	/	/	Cellulose
+NCU05121	PBD_cazy	/	/	Cellulose
+NCU05955	PBD_cazy	/	/	Cellulose
+NCU00206	PBD_cazy	/	/	Cellulose
+NCU05923	PBD_cazy	/	/	Cellulose
+NCU03996	PBD_cazy	/	/	Cellulose
+NCU09680	PBD_cazy	/	/	Cellulose
+NCU07190	PBD_cazy	/	/	Cellulose
+NCU07340	PBD_cazy	/	/	Cellulose
+NCU05104	PBD_cazy	/	/	Cellulose
+NCU08760	PBD_cazy	/	/	Cellulose
+NCU03328	PBD_cazy	/	/	Cellulose
+NCU00836	PBD_cazy	/	/	Cellulose
+NCU01867	PBD_cazy	/	/	Cellulose
+NCU02344	PBD_cazy	/	/	Cellulose
+NCU09764	PBD_cazy	/	/	Cellulose
+NCU02240	PBD_cazy	/	/	Cellulose
+NCU02916	PBD_cazy	/	/	Cellulose
+NCU01050	PBD_cazy	/	/	Cellulose
+NCU07760	PBD_cazy	/	/	Cellulose
+NCU03000	PBD_cazy	/	/	Cellulose
+NCU05969	PBD_cazy	/	/	Cellulose
+NCU07520	PBD_cazy	/	/	Cellulose
+NCU07898	PBD_cazy	/	/	Cellulose
+NCU07974	PBD_cazy	/	/	Cellulose
+NCU03641	PBD_cazy	/	/	Cellulose
+NCU08755	PBD_cazy	/	/	Cellulose
+NCU04952	PBD_cazy	/	/	Cellulose
+NCU00130	PBD_cazy	/	/	Cellulose
+NCU08054	PBD_cazy	/	/	Cellulose
+NCU05577	PBD_cazy	/	/	Cellulose
+NCU07487	PBD_cazy	/	/	Cellulose
+NCU04537	sugar_transporter	/	/	/
+NCU06138	sugar_transporter	/	/	/
+NCU06026	sugar_transporter	/	/	/
+NCU02188	sugar_transporter	/	/	/
+NCU08152	sugar_transporter	/	/	/
+NCU08180	sugar_transporter	/	/	/
+NCU05853	sugar_transporter	/	/	/
+NCU00988	sugar_transporter	/	/	/
+NCU00821	sugar_transporter	/	/	/
+NCU00809	sugar_transporter	/	/	/
+NCU00801	sugar_transporter	/	/	/
+NCU05350	sugar_transporter	/	/	/
+NCU06846	sugar_transporter	/	/	/
+NCU01813	sugar_transporter	/	/	/
+NCU01633	sugar_transporter	/	/	/
+NCU01494	sugar_transporter	/	/	/
+NCU09358	sugar_transporter	/	/	/
+NCU07861	sugar_transporter	/	/	/
+NCU04963	sugar_transporter	/	/	/
+NCU06522	sugar_transporter	/	/	/
+NCU06384	sugar_transporter	/	/	/
+NCU01868	sugar_transporter	/	/	/
+NCU06358	sugar_transporter	/	/	/
+NCU08858	sugar_transporter	/	/	/
+NCU01132	sugar_transporter	/	/	/
+NCU02582	sugar_transporter	/	/	/
+NCU08114	sugar_transporter	/	/	/
+NCU07199	sugar_transporter	/	/	/
+NCU07169	sugar_transporter	/	/	/
+NCU07054	sugar_transporter	/	/	/
+NCU05627	sugar_transporter	/	/	/
+NCU05597	sugar_transporter	/	/	/
+NCU05585	sugar_transporter	/	/	/
+NCU09287	sugar_transporter	/	/	/
+NCU10021	sugar_transporter	/	/	/
+NCU02438	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU10008	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU01328	sugar_metabolism	PPP	/	/
+NCU04797	sugar_metabolism	glycolysis	/	/
+NCU01701	sugar_metabolism	PPP	/	/
+NCU01702	sugar_metabolism	PPP	/	/
+NCU07608	sugar_metabolism	PPP	/	/
+NCU02136	sugar_metabolism	PPP	/	/
+NCU02482	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU10042	sugar_metabolism	glycolysis	/	/
+NCU01870	sugar_metabolism	glycolysis	/	/
+NCU08549	sugar_metabolism	D-galactose	/	/
+NCU06042	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU08943	sugar_metabolism	PCP	/	/
+NCU00891	sugar_metabolism	PCP	/	/
+NCU02542	sugar_metabolism	D-mannose/glycolysis	/	/
+NCU03857	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU06836	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU07422	sugar_metabolism	PPP	/	/
+NCU08336	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU02366	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU04280	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU10007	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU00187	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU05133	sugar_metabolism	D-galactose	/	/
+NCU03605	sugar_metabolism	L-rhamnose	/	/
+NCU04339	sugar_metabolism	PPP	/	/
+NCU06142	sugar_metabolism	PPP	/	/
+NCU03031	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU11353	sugar_metabolism	PCP	/	/
+NCU07550	sugar_metabolism	glycolysis	/	/
+NCU10058	sugar_metabolism	D-galactose	/	/
+NCU10110	sugar_metabolism	PPP	/	/
+NCU00087	sugar_metabolism	PPP	/	/
+NCU03803	sugar_metabolism	PCP	/	/
+NCU10107	sugar_metabolism	PPP	/	/
+NCU04510	sugar_metabolism	PCP	/	/
+NCU04442	sugar_metabolism	D-galactose	/	/
+NCU05425	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU07914	sugar_metabolism	glycolysis	/	/
+NCU11417	sugar_metabolism	D-galactose	/	/
+NCU01417	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU06003	sugar_metabolism	D-mannose	/	/
+NCU02829	sugar_metabolism	D-mannose	/	/
+NCU06211	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU07281	sugar_metabolism	glycolysis	/	/
+NCU07807	sugar_metabolism	glycolysis	/	/
+NCU08882	sugar_metabolism	D-galactose	/	/
+NCU07697	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU03779	sugar_metabolism	D-galactose/glycerol	/	/
+NCU08384	sugar_metabolism	PCP/D-galactose	/	/
+NCU00575	sugar_metabolism	D-mannose/glycolysis	/	/
+NCU08471	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU09532	sugar_metabolism	D-galacturonic acid	/	/
+NCU07064	sugar_metabolism	D-galacturonic acid	/	/
+NCU01227	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU06005	sugar_metabolism	glycerol	/	/
+NCU03100	sugar_metabolism	PPP	/	/
+NCU02580	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU08516	sugar_metabolism	D-galactose	/	/
+NCU02505	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU04401	sugar_metabolism	glycolysis	/	/
+NCU02322	sugar_metabolism	D-mannose	/	/
+NCU06482	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU04460	sugar_metabolism	D-galactose	/	/
+NCU02407	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU11201	sugar_metabolism	glycolysis	/	/
+NCU03004	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU07165	sugar_metabolism	D-mannose	/	/
+NCU09035	sugar_metabolism	L-rhamnose	/	/
+NCU07659	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU00959	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU10106	sugar_metabolism	glycolysis	/	/
+NCU04649	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU03068	sugar_metabolism	glycerol	/	/
+NCU01759	sugar_metabolism	PCP/D-galactose	/	/
+NCU00775	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU09533	sugar_metabolism	D-galacturonic acid	/	/
+NCU00519	sugar_metabolism	PPP	/	/
+NCU01692	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU05937	sugar_metabolism	D-mannose	/	/
+NCU07756	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU08687	sugar_metabolism	D-galactose	/	/
+NCU00050	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU00643	sugar_metabolism	PCP	/	/
+NCU05454	sugar_metabolism	glycerol	/	/
+NCU04899	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU09034	sugar_metabolism	L-rhamnose	/	/
+NCU01906	sugar_metabolism	D-galacturonic acid	/	/
+NCU09705	sugar_metabolism	D-galactose	/	/
+NCU01528	sugar_metabolism	glycolysis	/	/
+NCU02252	sugar_metabolism	glycolysis	/	/
+NCU06075	sugar_metabolism	glycolysis	/	/
+NCU03963	sugar_metabolism	PPP	/	/
+NCU00837	sugar_metabolism	PPP	/	/
+NCU00742	sugar_metabolism	glycerol	/	/
+NCU09111	sugar_metabolism	PPP	/	/
+NCU05586	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU04923	sugar_metabolism	glycerol	/	/
+NCU04230	sugar_metabolism	TCA & glyoxylate cycle	/	/
+NCU01905	sugar_metabolism	PCP	/	/
+NCU00629	sugar_metabolism	glycolysis	/	/

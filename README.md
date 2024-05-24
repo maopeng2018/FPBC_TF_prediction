@@ -6,14 +6,8 @@ Step 1: Collection a large set of transcriptome data. In this case, the related 
 
 
 Step 2: Inferencing gene regulatory networks (GRNs) from transcriptome data:
-    In this project, we tried four different methods: 
-    Method 1, Aracne   see https://pubmed.ncbi.nlm.nih.gov/27153652/, one example of running this analysis is shown below
-             java -jar dist/aracne.jar -e neurospora/neurospora_transcriptome_data.xls  -o output_Neurospora --tfs neurospora/JGI_neucr2_TFs.txt --pvalue 1E-8 --seed 1 --calculateThreshold ##  calculate threshold 
-             for i in {1..300}
-                  do
-                     java -jar dist/aracne.jar -e neurospora/neurospora_transcriptome_data.xls  -o output_Neurospora --threads 30 --tfs neurospora/JGI_neucr2_TFs.txt --pvalue 1E-8 --seed $i
-                   done
-              java -jar dist/aracne.jar -o output_Neurospora --consolidate  ## consolidate bootstraps in the output folder
+    In this project, we tried three different methods: 
+    Method 1, Aracne   see https://pubmed.ncbi.nlm.nih.gov/27153652/, you can find related command to run this analysis is attached in corresponding folders.           
 
     Method 2, Genie3, see https://pubmed.ncbi.nlm.nih.gov/20927193/ . 
               It's a well-documented R packages, https://bioconductor.org/packages/release/bioc/html/GENIE3.html. You can also find our R scripts in corresponding folders. 

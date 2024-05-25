@@ -1,8 +1,8 @@
-This project is about "Discovery of novel plant biomass conversion associated fungal transcription factors using a network-based approach"
+This project is about "Discovery of novel plant biomass conversion (PBC) associated fungal transcription factors using a network-based approach"
 
 Following steps are required to perfrom the prediction:
 
-Step 1: Collection a large set of transcriptome data. In this case, the related transcriptome data for Aspergillus niger and Neurospora crassa have been prepared and normalized.
+Step 1: Collection a large set of transcriptome data and annotation for PBC related genes (CAZy, sugar metabolic and transporters). In this case, the related files for Aspergillus niger and Neurospora crassa have been prepared.
 
 
 Step 2: Inferencing gene regulatory networks (GRNs) from transcriptome data:
@@ -11,6 +11,6 @@ Step 2: Inferencing gene regulatory networks (GRNs) from transcriptome data:
 
 Step 3, Combine prediction results of above three algorithms to get the consensus network using R script "mergemerge_table - Aracne_Genie3_Kboost_predictions.r".   
 
-Step 4, Calculate the enrichment of function for regulons of each TF using the R script "hypergeometric test_3ToolsConsensus_v5_pbcClass_E1fixlength.R".
+Step 4, Calculate the enrichment of specific PBC function for regulons of each TF using the R script "hypergeometric test_3ToolsConsensus_v5_pbcClass_E1fixlength.R".
 
 Step 5, You can visualize your results using heatmap by R script, "heatmap_prediction_results_v2.r".

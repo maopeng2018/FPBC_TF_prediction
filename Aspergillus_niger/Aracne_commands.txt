@@ -1,0 +1,14 @@
+
+##  calculate threshold with a fixed seed
+java -jar dist/aracne.jar -e aniger2/DEseq2_normalized_counts.xls  -o output_Aniger_DEseq2_noMutant --tfs aniger2/TFome_NRRL3_JGI_list.xls --pvalue 1E-8 --seed 1 --calculateThreshold
+
+## network building
+for i in {1..300}
+do
+java -jar dist/aracne.jar -e aniger2/DEseq2_normalized_counts.xls  -o output_Aniger_DEseq2_noMutant --threads 20 --tfs aniger2/TFome_NRRL3_JGI_list.xls --pvalue 1E-8 --seed $i
+done
+
+## consolidate bootstraps in the output folder
+java -jar dist/aracne.jar -o output_Aniger_DEseq2_noMutant --consolidate
+
+java -jar dist/aracne.jar -o output_Aniger_DEseq2_noMutant --consolidate --consolidatepvalue 0.1

@@ -1,0 +1,8 @@
+  java -jar dist/aracne.jar -e neurospora/neurospora_transcriptome_data.xls  -o output_Neurospora --tfs neurospora/JGI_neucr2_TFs.txt --pvalue 1E-8 --seed 1 --calculateThreshold ##  calculate threshold 
+            
+      for i in {1..300}
+                  do
+                     java -jar dist/aracne.jar -e neurospora/neurospora_transcriptome_data.xls  -o output_Neurospora --threads 30 --tfs neurospora/JGI_neucr2_TFs.txt --pvalue 1E-8 --seed $i
+                   done
+
+  java -jar dist/aracne.jar -o output_Neurospora --consolidate  ## consolidate bootstraps in the output folder

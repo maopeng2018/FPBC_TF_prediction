@@ -2,10 +2,10 @@ This project is about "Discovery of novel plant biomass conversion (PBC) associa
 
 Following steps are required to perfrom the prediction:
 
-Step 1: Collection a large set of transcriptome data and annotation for PBC related genes (CAZy, sugar metabolic and transporters). In this case, the related files for Aspergillus niger and Neurospora crassa have been prepared.
+Step 1, Collection a large set of transcriptome data and annotation for PBC related genes (CAZy, sugar metabolic and transporters). In this case, the related files for Aspergillus niger and Neurospora crassa have been prepared.
 
 
-Step 2: Inferencing gene regulatory networks (GRNs) from transcriptome data:
+Step 2, Inferencing gene regulatory networks (GRNs) from transcriptome data:
     In this project, we tried three different methods: Method 1, Aracne  (see https://pubmed.ncbi.nlm.nih.gov/27153652/);  Method 2, Genie3 (see https://pubmed.ncbi.nlm.nih.gov/20927193/); 
     Method 3, KBoost (see https://pubmed.ncbi.nlm.nih.gov/34326402/). All these tools have been well-documented by their original developers. You can also find the related commands in corresponding folders. 
 
